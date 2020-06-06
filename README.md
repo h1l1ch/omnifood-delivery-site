@@ -1,6 +1,6 @@
 # Omnifood. Website for delivering food!
 
-HTML & CSS oriented project. Introduced me into design and let me practice my design and creative skillset. Main focus is put on aesthetics and beauty but not the functionality.
+**HTML** & **CSS** oriented project. Introduced me to design and let me build design and creative skillset. Main focus is put on **aesthetics** and **beauty** but **not functionality**.
 
 
 ## Start
@@ -10,7 +10,13 @@ To see the final launched version of the project click the reference link above.
 
 ## What I've learned 
 
-* **HTML** & CSS **basics**. How to construct markup elements put them in the hierarchical order and neatly format. 
+* **HTML** & **CSS** **basics**. 
+
+  * How to build **markup elements** such as *div*, *row* etc. 
+  
+  * How to assign **characteristics distinctive to each element** using *class*, *id*, *section* and other selectors. 
+
+* **Webpage structure**. Such as the *header*, *footer*, *navigation links*, *sections* etc.
 
 * **Steal like an artist!**
 
@@ -22,19 +28,19 @@ To see the final launched version of the project click the reference link above.
 
 * Real world 7-step rule for building a website:
 
-  * 1. **Define the goal of your project.** - Show what Omnifood does, how it works and in which cities it operates in. Make people sign up on a subscription plan. Audience: busy people who don’t have time to cook or don’t like it.
+  * **Define the goal of your project.** - Show what Omnifood does, how it works and in which cities it operates in. Make people sign up on a subscription plan. Audience: busy people who don’t have time to cook or don’t like it.
   
-  * 2. **Plan your content: text, images, videos, icons, etc.** - One-page webpage containing information provided by Omnifood, with simple navigation. Content and navigation both are provided in text document.
+  * **Plan your content: text, images, videos, icons, etc.** - One-page webpage containing information provided by Omnifood, with simple navigation. Content and navigation both are provided in text document.
   
-  * 3. **Sketch your ideas before you design.** - One-page webpage containing information provided by Omnifood, with simple navigation. Content and navigation both are provided in text document.
+  * **Sketch your ideas before you design.** - One-page webpage containing information provided by Omnifood, with simple navigation. Content and navigation both are provided in text document.
   
-  * 4. **Design and develop your website.** - Color: orange. Font: LATO typeface.
+  * **Design and develop your website.** - Color: orange. Font: LATO typeface.
   
-  * 5. **It’s not done yet: optimization.** - multiple jQuery plugins were used here. 
+  * **It’s not done yet: optimization.** - multiple jQuery plugins were used here. 
   
-  * 6. **Launch your masterpiece.** - Omnifood was launched on the Netlify server and link is provided next to the desroption tag.
+  * **Launch your masterpiece.** - Omnifood was launched on the Netlify server and link is provided next to the desroption tag.
   
-  * 7. **Site maintenance.** - due to little promotion website requires little maintenance. 
+  * **Site maintenance.** - due to little promotion website requires little maintenance. 
   
  * How to **borrow other people's stylesheets** and **font files** to achieve desired design solutions.    
  
