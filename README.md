@@ -1,14 +1,14 @@
 # Omnifood. Website for delivering food!
 
-**HTML** & **CSS** oriented project. Introduced me to design and let me build design and creative skillset. Main focus is put on **aesthetics** and **beauty** but **not functionality**.
+**HTML** & **CSS** oriented project. Introduced me to design and let me boost my designing skills and creativity. Main focus was put on **aesthetics** and **beauty** but **not functionality**.
 
 ## How to use
 
-* To **see all effects** and **animations** simply *scroll down* to the footer. 
+* To **see all effects** and **animations** simply scroll down to the footer. 
 
 * Check cool **zooming effect** of "dish pictures".
 
-* *Navigation links* allow you to **travel across the webpage**. 
+* Navigation links allow you to **travel across the webpage**. 
 
 * This website has a **responsive web-design**. Feel free to check out its *mobile* and *tablet versions*.
 
