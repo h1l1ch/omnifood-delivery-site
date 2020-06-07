@@ -2,13 +2,30 @@
 
 **HTML** & **CSS** oriented project. Introduced me to design and let me build design and creative skillset. Main focus is put on **aesthetics** and **beauty** but **not functionality**.
 
+## How to use
 
-## Start
+* To **see all effects** and **animations** simply *scroll down* to the footer. 
 
-To see the final launched version of the project click the reference link above. 
+* Check zooming effect of "dish pictures".
+
+* *Navigation links* allow you to **travel across the webpage**. 
+
+* This website has a **responsive web-design**. Feel free to check out its *mobile* and *tablet versions*.
+
+## How to start
+
+Need **final version**? Simply check link of the app. It is *in the header* next to the *description*. 
+
+## Project structure
+
+* **/index.html** is main HTML file. 
+
+* **/vendors/** includes all **CSS** and **HTML code** *borrowed from other users* of the web.
+
+* **/resources/** includes all **CSS** and **HTML code** created specifically for this project.
 
 
-## What I've learned 
+## Things I've learned 
 
 * **HTML** & **CSS** **basics**. 
 
