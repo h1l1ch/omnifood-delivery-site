@@ -6,7 +6,7 @@
 
 * To **see all effects** and **animations** simply *scroll down* to the footer. 
 
-* Check zooming effect of "dish pictures".
+* Check cool **zooming effect** of "dish pictures".
 
 * *Navigation links* allow you to **travel across the webpage**. 
 
